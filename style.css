@@ -29,4 +29,10 @@ div {
 .text {
     font-size: 24px;
     padding-bottom: 20px;
+    color: red;
+}
+.history {
+    font-size: 20px;
+    padding-bottom: 20px;
+    color: blue;
 }
